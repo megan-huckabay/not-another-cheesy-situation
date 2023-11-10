@@ -1,0 +1,13 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(230, 226, 5);
+}
+
+.gallery img {
+    width: 25%; /* Adjust as needed */
+    height: auto;
+    margin: 10px; /* Add some margin for spacing */
+}
+  
