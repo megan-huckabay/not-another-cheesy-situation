@@ -3,7 +3,7 @@ import react from 'react';
 function Footer() {
     return (
         <footer>
-            <div class="footer-nav">
+            <div className="footer-nav">
 			    <form>
 				    <label for="email-input">Subscribe to our newsletter:</label>
 				    <input type="email" id="email-input" placeholder="Email Address"></input>
@@ -18,7 +18,7 @@ function Footer() {
 				    </ul>
 			    </nav>
 		    </div>
-		    <div class="footer-copy">
+		    <div className="footer-copy">
 			    <p>&copy; 2023 Cheesy Situation, Inc. All Rights Reserved.</p>
 		    </div>
 	    </footer> 

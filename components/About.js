@@ -2,9 +2,9 @@ import react from 'react';
 
 function About() {
     return (
-        <section class="About">
-			<div class="about-container">
-				<div class="text">
+        <section className="About">
+            <div className="about-container">
+                <div className="text">
 					<h2>Heres the Situation its so Cheesy!!</h2>
 					<p>In 2017, a serendipitous meeting brought together two souls deeply in love, navigating their way
 						through life's challenges. With mutual determination, we transformed our lives from rock bottom
@@ -15,7 +15,7 @@ function About() {
 						special, one-of-a-kind sandwiches alongside a 'build-your-own' selection. Feeling adventurous?
 						Try our pizza grilled cheese or the stuffed jalapeño cheesy - they're bound to tantalize your
 						taste buds. And for those who appreciate the classics, our 'Plain Jane' with its extra
-					    cheesiness pairs perfectly with a comforting bowl of tomato soup and an ice-cold coke.<br>But we
+					    cheesiness pairs perfectly with a comforting bowl of tomato soup and an ice-cold coke. But we
 					    didn't stop there. We understand the importance of catering to every member of the family. Our
 					    littlest cheese enthusiasts can enjoy our  cheesy sliders, perfectly sized for their little
 					    hands, accompanied by a refreshing juice.Planning an event? Let us be your culinary

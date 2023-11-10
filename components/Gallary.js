@@ -2,9 +2,9 @@ import react from 'react';
 
 function Gallary () {
     return (
-        <div section class="gallery">
+        <div section className="gallery">
 			
-			<div class="gallery">
+			<div className="gallery">
 
                 <img src="./img/grilled-cheese-main.png" alt="food 1"></img>
 
