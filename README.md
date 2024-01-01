@@ -1,8 +1,4 @@
 # not-another-cheesy-situation
-# a-cheesy-situation 
-
-Project Name: A Cheesy Situation
-
 <h1>Description:</h1>
 
 </b>"A Cheesy Situation"</b> is a delightful project that not only serves as a creative endeavor but also lays the foundation for a future dream – our very own food truck. Inspired by a shared passion for delectable grilled cheese sandwiches, my boyfriend and I have embarked on this journey to bring a unique twist to this classic favorite.
